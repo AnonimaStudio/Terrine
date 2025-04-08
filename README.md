@@ -13,4 +13,5 @@ Anonima.Studio declina ogni responsabilità, diretta e indiretta, nei confronti 
 Copyright © 2025 Tutti i diritti riservati.
 E' proibita la riproduzione, anche parziale, in ogni forma o mezzo, senza espresso permesso scritto dell'autore.
 
-<img width="1280" alt="Banner github" src="https://github.com/user-attachments/assets/f286d022-1334-465c-9fc3-d3ec1b2c34cb" />
+---
+<img width="1280" alt="Banner" src="https://github.com/user-attachments/assets/56f773d0-e19d-46e5-9841-927947841669" />
